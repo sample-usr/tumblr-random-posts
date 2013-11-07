@@ -9,7 +9,7 @@
       var log, settings;
       settings = {
         blogName: "yahoo.tumblr.com",
-        appKey: "5Px432l8TEOTGJdNrVQELx9AgdwUWkOwlq9onhicRu0uBzuPD5",
+        appKey: "NOTHING",
         debug: false
       };
       settings = $.extend(settings, options);
