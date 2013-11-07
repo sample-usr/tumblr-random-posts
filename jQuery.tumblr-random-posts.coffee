@@ -7,7 +7,7 @@ $.fn.extend
     # Default settings
     settings =
       blogName: "yahoo.tumblr.com"
-      appKey: "5Px432l8TEOTGJdNrVQELx9AgdwUWkOwlq9onhicRu0uBzuPD5"
+      appKey: "NOTHING"
       debug: false
 
     # Merge default settings with options.
