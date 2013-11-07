@@ -1,0 +1,28 @@
+{
+    "name": "tumblr-posts-random",
+    "title": "jQuery tumblr-posts-random",
+    "description": "A simple jQuery plugin to display random Tumblr posts.",
+    "keywords": [
+        "tumblr",
+        "random",
+        "posts"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Raza Gill",
+        "url": "https://github.com/razagill"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/razagill/tumblr-random-posts/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/razagill/tumblr-random-posts/issues",
+    "homepage": "https://github.com/razagill/tumblr-random-posts",
+    "docs": "https://github.com/razagill/tumblr-random-posts",
+    "download": "https://github.com/razagill/tumblr-random-posts",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
